@@ -1,0 +1,4 @@
+SimpleFac
+=========
+
+Simple dependency injection
