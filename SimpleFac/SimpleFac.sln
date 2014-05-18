@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFac", "SimpleFac.csproj", "{378B3721-3135-43FF-9ACD-B4760FE15DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleFac.Test.ConsoleApp", "..\SimpleFac.Test.Console\SimpleFac.Test.ConsoleApp.csproj", "{D49F639A-0262-4C50-AD05-844252296370}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{378B3721-3135-43FF-9ACD-B4760FE15DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{378B3721-3135-43FF-9ACD-B4760FE15DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{378B3721-3135-43FF-9ACD-B4760FE15DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{378B3721-3135-43FF-9ACD-B4760FE15DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D49F639A-0262-4C50-AD05-844252296370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D49F639A-0262-4C50-AD05-844252296370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D49F639A-0262-4C50-AD05-844252296370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D49F639A-0262-4C50-AD05-844252296370}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
